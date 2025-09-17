@@ -1,12 +1,7 @@
 # EcoVolt - App de Gamificação para Economia de Energia
 
 ## Integrantes
-22401822 - Arthur Moreira
-22300350 - Vinicius Isaac
-22401229 - Luis Gustavo
-22301305 - João Pedro B.
-22301933 - Paulo Sérgio
-22300368 - Carlos Henrique
+22401822 - Arthur Moreira | 22300350 - Vinicius Isaac | 22401229 - Luis Gustavo | 22301305 - João Pedro B. | 22301933 - Paulo Sérgio | 22300368 - Carlos Henrique
 
 ## Descrição
 EcoVolt é um aplicativo web que utiliza gamificação para incentivar a economia de energia. Os usuários ganham pontos ao completar tarefas de economia, desbloqueiam badges e competem em rankings.
